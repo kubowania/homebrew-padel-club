@@ -7,16 +7,39 @@ body {
     flex-direction: column;
     text-align: center;
     font-family: trebuchet MS, arial;
+    margin: 0;
+    padding: 0;
 }
 
 img {
     width: 100%;
     max-width: 200px;
     margin-top: 100px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 a {
     color: white;
     text-decoration: none;
+}
+
+button {
+    background: #3d4a3c;
+    color: white;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 30px;
+    border: none;
+}
+
+button:hover {
+    background: #212820;
+}
+
+button:active {
+    background: #ffbe0a;
+}
+
+.content-wrapper {
+    padding: 20px 0;
 }
