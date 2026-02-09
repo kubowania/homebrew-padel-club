@@ -9,12 +9,13 @@ body {
     font-family: trebuchet MS, arial;
     margin: 0;
     padding: 0;
+
 }
 
 img {
     width: 100%;
     max-width: 200px;
-    margin-top: 100px;
+    margin-top: 10%;
     margin-bottom: 50px;
 }
 
@@ -38,6 +39,10 @@ button:hover {
 
 button:active {
     background: #ffbe0a;
+}
+
+.content-wrapper {
+    padding: 20px 0;
 }
 
 .content-wrapper {
