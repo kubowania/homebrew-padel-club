@@ -2,7 +2,7 @@
 
 This repository contains the source code for the [Homebrew Padel Club](https://www.padelclub.ae) landing page. It is a lightweight, static website designed to serve as a digital presence for the club, directing traffic to social media channels.
 
-**Location:** Mood 22, Downtown Dubai, UAE  
+**Location:** Hoebrew 22Bst Al Satwa, Dubai, UAE  
 **Instagram:** [@padelclub.ae](https://www.instagram.com/padelclub.ae)
 
 ## 🚀 Getting Started
